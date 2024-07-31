@@ -1,5 +1,12 @@
-d 'DEA': Data envelopment analysis
+d 'ipdmetan': Perform two-stage inverse-variance individual participant data (IPD) meta-analysis Use ipdmetan With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f admetan.ado
+f admetan.sthlp
+f forestplot.ado
+f forestplot.sthlp
+f ipdmetan.ado
+f ipdmetan.sthlp
+f ipdover.ado
+f ipdover.sthlp
+f petometan.ado
+f petometan.sthlp
