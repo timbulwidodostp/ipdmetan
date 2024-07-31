@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p ipdmetan Perform two-stage inverse-variance individual participant data (IPD) meta-analysis Use ipdmetan With STATA 18
